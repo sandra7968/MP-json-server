@@ -27,18 +27,6 @@
   ],
   "categories": [
     {
-      "categoryName": "Frontend Tools",
-      "allVideos": [
-        {
-          "id": "6",
-          "caption": "Love Shot -EXO",
-          "url": "https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92",
-          "embedLink": "https://www.youtube.com/embed/KmRqHwJrTKQ"
-        }
-      ],
-      "id": 1
-    },
-    {
       "categoryName": "KPOP",
       "allVideos": [
         {
@@ -52,10 +40,23 @@
           "caption": "Love Shot -EXO",
           "url": "https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92",
           "embedLink": "https://www.youtube.com/embed/KmRqHwJrTKQ"
+        },
+        {
+          "id": "8",
+          "caption": "EXO - Cream Soda",
+          "url": "https://images.genius.com/613da490f00f758bb750685dd9442902.1000x1000x1.jpg",
+          "embedLink": "https://www.youtube.com/embed/uxIUWnwkC6Z"
         }
       ],
       "id": 2
     }
   ],
-  "history": []
+  "history": [
+    {
+      "caption": "Super - SEVENTEEN",
+      "embedLink": "https://www.youtube.com/embed/-GQg25oP0S4",
+      "timeStamp": "11/04/2023, 12:05:00 AM",
+      "id": 1
+    }
+  ]
 }
