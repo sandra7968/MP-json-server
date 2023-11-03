@@ -1,0 +1,19 @@
+
+
+   REST API - Deployable JSON Server
+   -----------------------------------
+
+1. create a folder for Server
+2. create package.json file: npm init -y
+3. install json-server to run json file : npm i json-server
+4. create .gitignore to ignore node_modules while adding to git
+5. create a db.json, to store json data
+6. create index.js file to define json server
+     - import json-server in index.js
+     - create a server for media player app
+     - set up path/route from json file
+     - create middlewares used by JSON server
+     - set up port for running server
+     - use middlewares and router in server
+     - to listen server for resolving request from client
+7. to run server project use command : npm start, add start command package.json script as "start": "node index.js
